@@ -1,2 +1,2 @@
-list1=['ali','saeed','reza','hamid','nahid']
+list1=['ali','saeed','reza','hamid']
 print(list1)
